@@ -1,2 +1,1 @@
-# python
-practicing python
+# Practicing Python
